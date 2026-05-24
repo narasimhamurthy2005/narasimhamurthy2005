@@ -100,8 +100,8 @@ class NarasimhaMurthy:
 **Open to internships · Hackathons · Interesting problems worth solving 🚀**
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/your.email@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/narasimhamurthy-kandala"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kandalamurthy09@gmail.com"><img src="https://img.shields.io/badge/your.email@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Narasimha Murthy"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!-- Footer -->
