@@ -27,7 +27,7 @@ class NarasimhaMurthy:
     name         = "Narasimha Murthy Kandala"
     role         = "Java Full Stack Developer"
     college      = "GRIET, Hyderabad 🎓"
-    building     = "CardioAstra 💓 — AI-powered cardiac health platform"
+    building     = "PixVault 🛡️ — patent pending"
     skills       = ["Java", "Java8", "JDBC", "Hibernate"]
     interests    = ["Healthcare Tech", "Web Development", "AI/ML"]
     projects     = ["CardioAstra", "AAC-NEW", "QR-Navigator", "Kaivalya"]
