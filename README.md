@@ -14,7 +14,6 @@
   <a href="mailto:kandalamurthy09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/CGPA-9.73%2F10-1A56A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Patent-Pending-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-1A1A2E?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=narasimhamurthy2005&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
 
