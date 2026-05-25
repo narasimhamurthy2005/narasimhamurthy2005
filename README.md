@@ -11,7 +11,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/narasimha-murthy-kandala-900b3a27a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kandalamurthy09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-1A1A2E?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=narasimhamurthy2005&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 </p>
@@ -27,7 +27,7 @@ class NarasimhaMurthy:
     role         = "Java Full Stack Developer"
     college      = "GRIET, Hyderabad 🎓"
     building     = "CardioAstra 💓 — AI-powered cardiac health platform"
-    skills       = ["Python", "HTML/CSS", "JavaScript", "Machine Learning"]
+    skills       = ["Java", "Java8", "JDBC", "Hibernate"]
     interests    = ["Healthcare Tech", "Web Development", "AI/ML"]
     projects     = ["CardioAstra", "AAC-NEW", "QR-Navigator", "Kaivalya"]
     location     = "Hyderabad, India 🇮🇳"
