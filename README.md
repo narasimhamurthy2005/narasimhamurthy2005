@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+real-world+solutions+with+code+%F0%9F%9A%80;Python+%7C+HTML%2FCSS%2FJS+%7C+Machine+Learning;Patent-pending+adversarial+deepfake+shield+%F0%9F%9B%A1%EF%B8%8F;Passionate+about+healthcare+tech+%F0%9F%92%93;Always+learning%2C+always+building!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+real-world+solutions+with+code+%F0%9F%9A%80;Java+%7C+Java8%2F+%7C;Patent-pending+adversarial+deepfake+shield+%F0%9F%9B%A1%EF%B8%8F;Passionate+about+healthcare+tech+%F0%9F%92%93;Always+learning%2C+always+building!" />
 </p>
 
 <!-- Badges -->
