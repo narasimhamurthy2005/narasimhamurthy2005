@@ -24,7 +24,7 @@
 ```python
 class NarasimhaMurthy:
     name         = "Narasimha Murthy Kandala"
-    role         = "Full Stack Developer & ML Enthusiast"
+    role         = "Java Full Stack Developer"
     college      = "GRIET, Hyderabad 🎓"
     building     = "CardioAstra 💓 — AI-powered cardiac health platform"
     skills       = ["Python", "HTML/CSS", "JavaScript", "Machine Learning"]
