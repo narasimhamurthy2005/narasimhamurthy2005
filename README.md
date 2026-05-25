@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:16213E&height=220&section=header&text=Narasimha%20Murthy%20Kandala&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=62&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:16213E&height=220&section=header&text=Narasimha%20Murthy%20Kandala&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=62&descColor=a0c4ff" />
 </p>
 
 <!-- Typing Animation -->
